@@ -3,6 +3,7 @@
 @import url(menu.css);
 @import url(banner.css);
 @import url(blog.css);
+@import url(info.css);
 
 /* Resetear */
 *{
@@ -53,4 +54,30 @@ section{
 /*section de bienvenido*/
 #bienvenidos{
     text-align: center;
+    color: #E53935;
+}
+
+/*footer*/
+footer .contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 25px;
+    background-color: #E53935;
+
+}
+
+.copy{
+    font-size: 20px;
+}
+
+.social{
+    width: 100%;
+    text-align: center;
+    font-size: 28px;
+}
+
+.social a{
+    color: #455A64;
+    text-decoration: none;
 }

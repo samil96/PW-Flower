@@ -1,0 +1,24 @@
+#info{
+    background: #FFEB3B;
+    color: #880E4F;
+    text-align: center;
+    padding: 20px;
+}
+
+#info .contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.info-plant{
+    margin: 20px;
+    color: #880E4F;
+}
+
+.info-plant img{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    border: 7px solid #fff;
+}

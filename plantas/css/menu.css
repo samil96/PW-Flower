@@ -42,3 +42,23 @@ header label{
     transform: translate(0%);
 }
 
+/*para que sea responsiva el MENU*/
+@media (min-width: 1024px) {
+    .menu{
+        position: static;
+        width: auto;
+        height: auto;
+        transform: translateX(0%);
+        float: right;
+        display: flex;
+    }
+
+    .menu a{
+        border: none;
+    }
+
+    header label{
+        display: none;
+    }
+}
+

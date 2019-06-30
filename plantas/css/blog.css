@@ -1,12 +1,16 @@
 #blog h3,h4{
     text-align: center;
 }
+#blog h3{
+    color: #3949AB;
+}
 
 #blog .contenedor{
     display: flex;
     justify-content: center;
-    /*para las imagenes que no quepan se bajen*/
+    /*para las images que no quepan se bajen*/
     flex-wrap: wrap;
+    color: #3949AB;
 }
 
 #blog article{
