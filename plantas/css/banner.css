@@ -1,0 +1,38 @@
+#banner{
+    /* la imagen empiece debajo del header*/
+    margin-top: 50px;
+    position: relative;
+}
+
+#banner img{
+    width: 100%;
+    height: 100%;
+}
+
+/*al contenedor dentro del banner posicionar */
+/*las letras se pongan al centro del banner*/
+#banner .contenedor{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #C5CAE9;
+}
+
+#banner h2{
+    font-size: 28px;
+}
+
+#banner a{
+    display: block;
+    width: 100px;
+    color: #C5CAE9;
+    text-decoration: none;
+    padding: 7px;
+    margin-top: 10px;
+    border: 3px solid #C5CAE9;
+}
+
+#banner a:hover{
+    background: rgba(51,51,51,0.5);
+}

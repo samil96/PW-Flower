@@ -1,0 +1,56 @@
+/* Importar url de fonts-topologia de letras y otros css */
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+@import url(menu.css);
+@import url(banner.css);
+@import url(blog.css);
+
+/* Resetear */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+header{
+    width: 100%;
+    height: 50px;
+    background: #880E4F;
+    color: #FFEB3B;
+/* Se quede posicionado el header */
+    position: fixed;
+    top: 0;
+    left: 0;
+/* header tape a los demas */
+    z-index: 100;
+}
+
+.contenedor{
+    width: 98%;
+    /*para que este en el centro*/
+    margin: auto;
+}
+
+h1 {
+    /*para que flote la letra*/
+    float: left;
+}
+
+/*para limpiar los flou*/
+header .contenedor{
+    display: table;
+}
+
+section{
+    width: 100%;
+    /* cuando haya mas contenido lo ponga más abajo*/
+    margin-bottom: 25px;
+}
+
+/*section de bienvenido*/
+#bienvenidos{
+    text-align: center;
+}
