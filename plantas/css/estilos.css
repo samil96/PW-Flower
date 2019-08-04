@@ -58,13 +58,13 @@ section{
 }
 
 /*footer*/
+
 footer .contenedor{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     padding-bottom: 25px;
     background-color: #E53935;
-
 }
 
 .copy{
@@ -80,4 +80,12 @@ footer .contenedor{
 .social a{
     color: #455A64;
     text-decoration: none;
+}
+
+/*para que sea responsiva el pw */
+
+@media (min-width: 1024px){
+    .contenedor{
+        width: 1000px;
+    }
 }
