@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05edd9de-76e2-433e-8f61-8c3c942e5de8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/plantas/images/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plantas/css/banner.css" beforeDir="false" afterPath="$PROJECT_DIR$/plantas/css/banner.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plantas/css/blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/plantas/css/blog.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plantas/css/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/plantas/css/estilos.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plantas/css/info.css" beforeDir="false" afterPath="$PROJECT_DIR$/plantas/css/info.css" afterDir="false" />
@@ -32,25 +29,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="10" />
+          <entry key="css" value="11" />
           <entry key="html" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="10" />
+          <entry key="CSS" value="11" />
           <entry key="HTML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="726" />
+          <entry key="css" value="813" />
           <entry key="html" value="481" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="726" />
+          <entry key="CSS" value="813" />
           <entry key="HTML" value="481" />
         </counts>
       </usages-collector>
@@ -61,8 +58,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/plantas/index-flower.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1377">
-              <caret line="81" column="32" lean-forward="true" selection-start-line="81" selection-start-column="32" selection-end-line="81" selection-end-column="32" />
+            <state relative-caret-position="884">
+              <caret line="79" column="16" selection-start-line="79" selection-start-column="16" selection-end-line="79" selection-end-column="16" />
               <folding>
                 <element signature="e#2902#2908#0" expanded="true" />
               </folding>
@@ -70,20 +67,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/plantas/css/info.css">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plantas/css/blog.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+            <state relative-caret-position="391">
+              <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plantas/css/info.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/plantas/css/estilos.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1479">
-              <caret line="87" column="16" lean-forward="true" selection-start-line="87" selection-start-column="16" selection-end-line="87" selection-end-column="16" />
+            <state relative-caret-position="364">
+              <caret line="79" column="18" selection-start-line="79" selection-start-column="18" selection-end-line="79" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -122,11 +128,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/plantas/css/menu.css" />
-        <option value="$PROJECT_DIR$/plantas/css/blog.css" />
-        <option value="$PROJECT_DIR$/plantas/index-flower.html" />
         <option value="$PROJECT_DIR$/plantas/css/banner.css" />
-        <option value="$PROJECT_DIR$/plantas/css/estilos.css" />
+        <option value="$PROJECT_DIR$/plantas/index-flower.html" />
+        <option value="$PROJECT_DIR$/plantas/css/blog.css" />
         <option value="$PROJECT_DIR$/plantas/css/info.css" />
+        <option value="$PROJECT_DIR$/plantas/css/estilos.css" />
       </list>
     </option>
   </component>
@@ -136,7 +142,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="615" />
     <option name="width" value="759" />
     <option name="height" value="735" />
@@ -221,12 +227,12 @@
       <updated>1561921579284</updated>
       <workItem from="1561921583321" duration="2702000" />
       <workItem from="1564798849632" duration="1226000" />
-      <workItem from="1564885540738" duration="6080000" />
+      <workItem from="1564885540738" duration="7339000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10008000" />
+    <option name="totallyTimeSpent" value="11267000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="615" y="0" width="759" height="735" extended-state="0" />
@@ -258,13 +264,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/plantas/css/blog.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plantas/css/menu.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="271">
@@ -279,27 +278,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plantas/css/estilos.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1479">
-          <caret line="87" column="16" lean-forward="true" selection-start-line="87" selection-start-column="16" selection-end-line="87" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plantas/index-flower.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1377">
-          <caret line="81" column="32" lean-forward="true" selection-start-line="81" selection-start-column="32" selection-end-line="81" selection-end-column="32" />
+        <state relative-caret-position="884">
+          <caret line="79" column="16" selection-start-line="79" selection-start-column="16" selection-end-line="79" selection-end-column="16" />
           <folding>
             <element signature="e#2902#2908#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/plantas/css/blog.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/plantas/css/info.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        <state relative-caret-position="245">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plantas/css/estilos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="79" column="18" selection-start-line="79" selection-start-column="18" selection-end-line="79" selection-end-column="18" />
         </state>
       </provider>
     </entry>

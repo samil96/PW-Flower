@@ -64,7 +64,6 @@ footer .contenedor{
     flex-wrap: wrap;
     justify-content: center;
     padding-bottom: 25px;
-    background-color: #E53935;
 }
 
 .copy{
@@ -78,8 +77,20 @@ footer .contenedor{
 }
 
 .social a{
-    color: #455A64;
+    color: #E53935;
     text-decoration: none;
+}
+
+/*para que sea responsiva el footer */
+
+@media (min-width: 768px){
+    .social{
+        width: auto;
+    }
+
+    footer .contenedor {
+        justify-content: space-between;
+    }
 }
 
 /*para que sea responsiva el pw */
